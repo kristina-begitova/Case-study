@@ -21,6 +21,7 @@
 - Стратегия из 4 направлений (интерфейс, кросс-платформа ВК↔ОК, изменение игрового диапазона, маскот) с матрицами приоритизации и дорожной картой.
 
 📎 [Презентация](./CupRussia2025-P&G-Quickteam.pdf)
+<img width="1139" height="636" alt="image" src="https://github.com/user-attachments/assets/79783bc0-6d4c-4d5d-b6f5-e90f7ca1fec1" />
 
 ---
 

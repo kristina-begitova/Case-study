@@ -61,3 +61,4 @@
 📎 [Презентация](./Экспобанк-2023-ВЭД.pdf)
 <img width="1145" height="617" alt="image" src="https://github.com/user-attachments/assets/363f52c6-0394-4e70-8d4a-4213b2ef870e" />
 
+
